@@ -33,11 +33,11 @@ Embark on a data-driven journey through the heart of New York City's Airbnb scen
 
 **Total Listings Measure:** A new measure, "total listings," allows for a deeper understanding of the overall Airbnb inventory in the dataset.
 
-## Files
+## Files:
 
 Dataset :https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
-## Recommendations
+## Recommendations:
 
 The Power BI exploration of Airbnb in New York City has uncovered insightful revelations, providing a deep dive into the ever-changing terrain of short-term rentals within the city. Through a careful examination of key findings and strategic recommendations, a holistic comprehension of the Airbnb market dynamics in 2019 has been achieved.
 
@@ -47,7 +47,7 @@ Strategic marketing for less popular neighbourhood : Strategic marketing efforts
 
 Optimizing price ranges : Hosts in Manhattan could enhance value through special packages, discounts, or unique amenities, while hosts in Brooklyn could leverage the diverse price range to attract a broader clientele.
 
-## Conclusion
+## Conclusion:
 
 This Power BI analysis not only provides actionable recommendations but also empowers hosts and stakeholders to make informed decisions based on data-driven insights. As the city's hospitality landscape continues to evolve, adapting strategies based on these findings ensures a competitive edge in the dynamic Airbnb market of New York City.
 Feel free to reach out for any inquiries or collaborations. Happy exploring the vibrant world of New York City's Airbnb scene! 🌆✨
