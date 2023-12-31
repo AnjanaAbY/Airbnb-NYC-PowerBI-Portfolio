@@ -43,11 +43,11 @@ PowerBI file : https://github.com/AnjanaAbY/Airbnb-NYC-PowerBI-Portfolio/release
 
 The Power BI exploration of Airbnb in New York City has uncovered insightful revelations, providing a deep dive into the ever-changing terrain of short-term rentals within the city. Through a careful examination of key findings and strategic recommendations, a holistic comprehension of the Airbnb market dynamics in 2019 has been achieved.
 
-Room type distribution: Hosts might attract a broader range of guests by investing in private rooms or shared spaces, catering to varying preferences and budgets.
+**Room type distribution:** Hosts might attract a broader range of guests by investing in private rooms or shared spaces, catering to varying preferences and budgets.
 
-Strategic marketing for less popular neighbourhood : Strategic marketing efforts, emphasizing unique features and attractions, could make these areas more appealing to potential visitors.
+**Strategic marketing for less popular neighbourhood :** Strategic marketing efforts, emphasizing unique features and attractions, could make these areas more appealing to potential visitors.
 
-Optimizing price ranges : Hosts in Manhattan could enhance value through special packages, discounts, or unique amenities, while hosts in Brooklyn could leverage the diverse price range to attract a broader clientele.
+**Optimizing price ranges :** Hosts in Manhattan could enhance value through special packages, discounts, or unique amenities, while hosts in Brooklyn could leverage the diverse price range to attract a broader clientele.
 
 ## Conclusion:
 
