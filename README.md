@@ -36,7 +36,8 @@ Embark on a data-driven journey through the heart of New York City's Airbnb scen
 ## Files:
 
 Dataset :https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
-PoWERBI file : https://github.com/AnjanaAbY/Airbnb-NYC-PowerBI-Portfolio/releases
+
+PowerBI file : https://github.com/AnjanaAbY/Airbnb-NYC-PowerBI-Portfolio/releases
 
 ## Recommendations:
 
